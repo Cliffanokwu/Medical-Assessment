@@ -4,7 +4,9 @@ The first page, Portfolio Overview, establishes the strategic context of the mod
 The principal finding is that the library is substantially skewed along three dimensions: cancer-type representation is dominated by colorectal cancer at approximately one in five samples, mutation burden concentrates in the intermediate range, and inferred ancestry is overwhelmingly European at approximately 71%. Each of these asymmetries carries direct implications for the generalizability of any therapeutic insight derived from this collection. The underrepresentation of non-European ancestries in particular reflects a broader and well-documented inequity in biomedical research infrastructure (Popejoy & Fullerton, 2016).
 
 
-2.1 Business Questions Addressed:
+
+
+Business Questions Addressed:
 
 
 
